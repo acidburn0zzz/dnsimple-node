@@ -34,7 +34,7 @@
     "nock": "^9.3.2"
   },
   "dependencies": {
-    "npm": "^6.1.0"
+    "npm": "^9.7.1"
   },
   "license": "MIT",
   "scripts": {
